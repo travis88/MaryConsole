@@ -1,0 +1,10 @@
+/home/ss/Documents/Projects/dotnet/Mary/bin/Debug/netcoreapp2.0/Mary.deps.json
+/home/ss/Documents/Projects/dotnet/Mary/bin/Debug/netcoreapp2.0/Mary.runtimeconfig.json
+/home/ss/Documents/Projects/dotnet/Mary/bin/Debug/netcoreapp2.0/Mary.runtimeconfig.dev.json
+/home/ss/Documents/Projects/dotnet/Mary/bin/Debug/netcoreapp2.0/Mary.dll
+/home/ss/Documents/Projects/dotnet/Mary/bin/Debug/netcoreapp2.0/Mary.pdb
+/home/ss/Documents/Projects/dotnet/Mary/obj/Debug/netcoreapp2.0/Mary.csproj.CoreCompileInputs.cache
+/home/ss/Documents/Projects/dotnet/Mary/obj/Debug/netcoreapp2.0/Mary.AssemblyInfoInputs.cache
+/home/ss/Documents/Projects/dotnet/Mary/obj/Debug/netcoreapp2.0/Mary.AssemblyInfo.cs
+/home/ss/Documents/Projects/dotnet/Mary/obj/Debug/netcoreapp2.0/Mary.dll
+/home/ss/Documents/Projects/dotnet/Mary/obj/Debug/netcoreapp2.0/Mary.pdb
